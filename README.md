@@ -6,5 +6,5 @@ Country: Russia 🇷🇺
 ⚛️ Starting to learn React  
 📂 First public project: [LocalBanBase](https://github.com/Grishadow/LocalBanBase)
 
-🎯 Goal 1: become a freelancer before July 2025
+🎯 Goal 1: become a freelancer
 status: in progress
